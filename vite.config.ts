@@ -16,7 +16,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
     allowedHosts: [
-      "spark-chiang-folio-47267-90175-44732-85.onrender.com", // ✅ Add Render domain
+      "spark-chiang-folio-47267-90175-44732-85.onrender.com", "www.aloyise.com", "aloyise.com", // ✅ Add Render domain
     ],
   },
   preview: {
